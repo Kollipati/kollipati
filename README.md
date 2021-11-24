@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vamshikollipati@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YjNnXNHgcTWd2bF9kv3OArX94kxZ54AV/view?usp=drivesdk](https://drive.google.com/file/d/1MHc1rPEFiPyYyf0JjiWTf78lDnb40EkI/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YjNnXNHgcTWd2bF9kv3OArX94kxZ54AV/view?usp=drivesdk](https://drive.google.com/file/d/1YjNnXNHgcTWd2bF9kv3OArX94kxZ54AV/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
