@@ -1,8 +1,10 @@
-![MasterHead](https://user-images.githubusercontent.com/89390696/173286875-9c9dce6d-f385-4f10-97fb-ebf18f1e32af.gif)
+![helo](https://user-images.githubusercontent.com/89390696/173287660-a6892d56-9be0-40c9-856c-f807ac3a3302.gif)
 <h1 align="center">Hi 👋, I'm 𝐕𝐀𝐌𝐒𝐇𝐈 𝐂𝐇𝐎𝐖𝐃𝐀𝐑𝐘</h1>
 <h3 align="center">A passionate 𝐃𝐀𝐓𝐀 𝐒𝐂𝐈𝐄𝐍𝐓𝐈𝐒𝐓</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kollipati" alt="kollipati" /></a> </p>
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
 
 - 🌱 I’m currently learning **𝐌𝐋,𝐃𝐋,𝐍𝐋𝐏.**
 
