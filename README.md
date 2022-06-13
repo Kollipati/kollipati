@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/89390696/173286875-9c9dce6d-f385-4f10-97fb-ebf18f1e32af.gif)
+![MasterHead](https://user-images.githubusercontent.com/89390696/173286875-9c9dce6d-f385-4f10-97fb-ebf18f1e32af.gif)
 <h1 align="center">Hi 👋, I'm 𝐕𝐀𝐌𝐒𝐇𝐈 𝐂𝐇𝐎𝐖𝐃𝐀𝐑𝐘</h1>
 <h3 align="center">A passionate 𝐃𝐀𝐓𝐀 𝐒𝐂𝐈𝐄𝐍𝐓𝐈𝐒𝐓</h3>
 
