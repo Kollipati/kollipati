@@ -1,11 +1,12 @@
 
 ![helo](https://user-images.githubusercontent.com/89390696/197391947-44073cab-ffa1-4f6f-b0e9-a541afc7254a.gif)
 
-🔭 I’m currently working on Machine Learning, Deep Learning
+🔭 I’m currently working on 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
+✉️ 𝐌𝐚𝐢𝐥 𝐌𝐞 : vamshikollipati@gmail.com
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](vamshikollipati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshikollipati/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vamshikollipati) 
 
 
