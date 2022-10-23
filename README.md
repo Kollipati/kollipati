@@ -22,4 +22,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kollipati&icon=0&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Kollipati&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
