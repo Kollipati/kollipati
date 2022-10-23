@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vamshikollipati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vamshikollipati" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vamshi-chowdary-aa8208219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vamshi-chowdary-aa8208219" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kollipati vamshi krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kollipati vamshi krishna" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vamshikollipati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vamshi-chowdary-aa8208219" height="30" width="40" /></a>
+
 <a href="https://kaggle.com/vamshichowdary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vamshichowdary" height="30" width="40" /></a>
 <a href="https://fb.com/vamshi.k.chowdary.71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vamshi.k.chowdary.71" height="30" width="40" /></a>
 <a href="https://instagram.com/_mr_decent_46_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr_decent_46_" height="30" width="40" /></a>
