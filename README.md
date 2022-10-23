@@ -1,7 +1,9 @@
 
 ![helo](https://user-images.githubusercontent.com/89390696/197391947-44073cab-ffa1-4f6f-b0e9-a541afc7254a.gif)
 
-🔭 I’m currently working on 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
+🔭 I’m currently working on 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 
+
+
 ✉️ 𝐌𝐚𝐢𝐥 𝐌𝐞 : vamshikollipati@gmail.com
 
 
