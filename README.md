@@ -20,7 +20,7 @@
 
 
 # 📊 GitHub Stats:
-<img align="right" alt = "coding" width="510" src="https://user-images.githubusercontent.com/89390696/197391952-f3423814-f8a0-4b6e-bf30-6ae5c2233972.gif">
+<img align="right" alt = "coding" width="300" src="https://user-images.githubusercontent.com/89390696/197391952-f3423814-f8a0-4b6e-bf30-6ae5c2233972.gif">
 
 ![](https://github-readme-stats.vercel.app/api?username=Kollipati&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kollipati&theme=highcontrast&hide_border=false)<br/>
