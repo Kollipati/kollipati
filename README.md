@@ -33,4 +33,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kollipati&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![badge](https://user-images.githubusercontent.com/89390696/197448264-f7fcd57c-77b0-488c-9360-c38fcc13afca.svg)
