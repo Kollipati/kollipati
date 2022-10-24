@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-<img align="right" alt = "coding" width="280" src="https://user-images.githubusercontent.com/89390696/197391952-f3423814-f8a0-4b6e-bf30-6ae5c2233972.gif">
+<img align="right" alt = "coding" height ="250" width="300" src="https://user-images.githubusercontent.com/89390696/197446768-6a6f7770-9b02-489c-8bd4-5305e92e7b65.gif">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshikollipati/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vamshikollipati) 
@@ -20,6 +20,8 @@
 
 
 # 📊 GitHub Stats:
+<img align="right" alt = "coding" width="510" src="https://user-images.githubusercontent.com/89390696/197391952-f3423814-f8a0-4b6e-bf30-6ae5c2233972.gif">
+
 ![](https://github-readme-stats.vercel.app/api?username=Kollipati&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kollipati&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kollipati&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
